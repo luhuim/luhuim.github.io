@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Huimin Lu",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "luhuimin15@gmail.com",
+    "phone": "+46 724448233",
+    "url": "https://luhuim.github.io",
+    "summary": "I'm a master student in Lund University, majoring in bioinfomatics. Currently, I'm doing my master thesis.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No",
+      "postalCode": "No",
+      "city": "Lund",
+      "countryCode": "SE",
+      "region": "Skane"
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "Linkein",
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }
@@ -50,8 +50,8 @@
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "area": "Bioinformatics",
+      "studyType": "Master program",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
@@ -69,9 +69,9 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "AI introduction course",
+      "date": "2022-07-11",
+      "issuer": "Paris Central Spupelc summer school",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
